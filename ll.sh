@@ -1,5 +1,7 @@
 #!/bin/zsh
 
+# ls -l or ll
+
 pel="$1"
 
 for dosya in "$pel"/*
