@@ -22,5 +22,6 @@ do
     else
         t="-"
     fi
-    printf "%s%s %8s %10s %10s %10s %s\n" "$t" "$destur" "$xwedu" "$grup" "$mezinahi" "$dirok" "$nav"
+    printf "\e[92m%s %s\e[31m %8s \e[31m%10s \e[93m%10s\e[94m %10s \e[96m%s\e[0m\n" "$t" "$destur" "$xwedi" "$grup" "$mezinahi" "$dirok" "$nav"
+
 done
