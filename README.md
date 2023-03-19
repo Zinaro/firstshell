@@ -1,4 +1,6 @@
 # # Shell
 
-`./zinar.sh /home/zinar` or `sh zinar.sh /home/zinar`
 # run
+`./ll.sh /home/zinar` or `sh ll.sh /home/zinar`
+
+`./zinar.sh url` or `sh zinar.sh url`
